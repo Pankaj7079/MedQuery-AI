@@ -26,7 +26,7 @@ This project demonstrates how AI and modern NLP techniques can assist in medical
 ## Project Structure
 
 ```
-MEDIQUERY_AI/
+MEDQUERY_AI/
 │
 ├── data/                     # Data files or PDFs (knowledge source)
 ├── research/                 # Jupyter notebooks and research experiments
@@ -153,7 +153,7 @@ http://localhost:8501
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI:892825672696.dkr.ecr.eu-north-1.amazonaws.com/medquery-ai
+    - Save the URI:892825672696.dkr.ecr.us-east-1.amazonaws.com/medquery_ai
 	
 ## 4. Create EC2 machine (Ubuntu) 
 
