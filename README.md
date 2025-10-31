@@ -30,7 +30,7 @@ MEDQUERY_AI/
 │
 ├── data/                     # Data files or PDFs (knowledge source)
 ├── research/                 # Jupyter notebooks and research experiments
-│   └── trials.ipynb
+│   └── main.ipynb
 ├── src/                      # Core application logic
 │   ├── __init__.py
 │   ├── helper.py
