@@ -1,7 +1,5 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-.github/workflows
-Dockerfile
 *.py[codz]
 *$py.class
 
